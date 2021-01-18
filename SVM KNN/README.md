@@ -265,7 +265,7 @@ ps.plot.pie(figsize=(5, 5),label='Classes')
 
 
 
-![png](output_8_1.png)
+![png](https://raw.githubusercontent.com/sergo2048/Data-mining/main/SVM%20KNN/images/output_8_1.png)
 
 
 Видно что распределение классов в датасете неравномерное.
@@ -453,7 +453,7 @@ plt.show()
 ```
 
 
-![png](output_28_0.png)
+![png](https://raw.githubusercontent.com/sergo2048/Data-mining/main/SVM%20KNN/images/output_28_0.png)
 
 
 Ниже представлена функция для визуализации самого метода опорных векторов.
@@ -482,19 +482,19 @@ for kernel in ['linear', 'poly', 'rbf', 'sigmoid']:
 ```
 
 
-![png](output_32_0.png)
+![png](https://raw.githubusercontent.com/sergo2048/Data-mining/main/SVM%20KNN/images/output_32_0.png)
 
 
 
-![png](output_32_1.png)
+![png](https://raw.githubusercontent.com/sergo2048/Data-mining/main/SVM%20KNN/images/output_32_1.png)
 
 
 
-![png](output_32_2.png)
+![png](https://raw.githubusercontent.com/sergo2048/Data-mining/main/SVM%20KNN/images/output_32_2.png)
 
 
 
-![png](output_32_3.png)
+![png](https://raw.githubusercontent.com/sergo2048/Data-mining/main/SVM%20KNN/images/output_32_3.png)
 
 
 
@@ -620,7 +620,7 @@ plt.show()
 ```
 
 
-![png](output_44_0.png)
+![png](https://raw.githubusercontent.com/sergo2048/Data-mining/main/SVM%20KNN/images/output_44_0.png)
 
 
 Далее построим график зависимости точности предсказания от значения p
@@ -639,7 +639,7 @@ plt.show()
 ```
 
 
-![png](output_46_0.png)
+![png](https://raw.githubusercontent.com/sergo2048/Data-mining/main/SVM%20KNN/images/output_46_0.png)
 
 
 Ниже предоставлена функция для визуализации метода k-ближайших соседей.
@@ -683,19 +683,19 @@ for n_neighbors in  [2, 9]:
 ```
 
 
-![png](output_50_0.png)
+![png](https://raw.githubusercontent.com/sergo2048/Data-mining/main/SVM%20KNN/images/output_50_0.png)
 
 
 
-![png](output_50_1.png)
+![png](https://raw.githubusercontent.com/sergo2048/Data-mining/main/SVM%20KNN/images/output_50_1.png)
 
 
 
-![png](output_50_2.png)
+![png](https://raw.githubusercontent.com/sergo2048/Data-mining/main/SVM%20KNN/images/output_50_2.png)
 
 
 
-![png](output_50_3.png)
+![png](https://raw.githubusercontent.com/sergo2048/Data-mining/main/SVM%20KNN/images/output_50_3.png)
 
 
 ### Заключение
