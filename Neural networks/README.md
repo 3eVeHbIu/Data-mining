@@ -492,16 +492,16 @@ for i in range(len(lyters)):
 добавлении шума.
 
 Изначально цифры будут выглядеть так:
-![0.png](attachment:https://raw.githubusercontent.com/sergo2048/Data-mining/main/Neural%20networks/images/0.png)
-![1.png](attachment:https://raw.githubusercontent.com/sergo2048/Data-mining/main/Neural%20networks/images/1.png)
-![2.png](attachment:https://raw.githubusercontent.com/sergo2048/Data-mining/main/Neural%20networks/images/2.png)
-![3.png](attachment:https://raw.githubusercontent.com/sergo2048/Data-mining/main/Neural%20networks/images/3.png)
-![4.png](attachment:https://raw.githubusercontent.com/sergo2048/Data-mining/main/Neural%20networks/images/4.png)
-![5.png](attachment:https://raw.githubusercontent.com/sergo2048/Data-mining/main/Neural%20networks/images/5.png)
-![6.png](attachment:https://raw.githubusercontent.com/sergo2048/Data-mining/main/Neural%20networks/images/6.png)
-![7.png](attachment:https://raw.githubusercontent.com/sergo2048/Data-mining/main/Neural%20networks/images/7.png)
-![8.png](attachment:https://raw.githubusercontent.com/sergo2048/Data-mining/main/Neural%20networks/images/8.png)
-![9.png](attachment:https://raw.githubusercontent.com/sergo2048/Data-mining/main/Neural%20networks/images/9.png)
+![0.png](https://raw.githubusercontent.com/sergo2048/Data-mining/main/Neural%20networks/images/0.png)
+![1.png](https://raw.githubusercontent.com/sergo2048/Data-mining/main/Neural%20networks/images/1.png)
+![2.png](https://raw.githubusercontent.com/sergo2048/Data-mining/main/Neural%20networks/images/2.png)
+![3.png](https://raw.githubusercontent.com/sergo2048/Data-mining/main/Neural%20networks/images/3.png)
+![4.png](https://raw.githubusercontent.com/sergo2048/Data-mining/main/Neural%20networks/images/4.png)
+![5.png](https://raw.githubusercontent.com/sergo2048/Data-mining/main/Neural%20networks/images/5.png)
+![6.png](https://raw.githubusercontent.com/sergo2048/Data-mining/main/Neural%20networks/images/6.png)
+![7.png](https://raw.githubusercontent.com/sergo2048/Data-mining/main/Neural%20networks/images/7.png)
+![8.png](https://raw.githubusercontent.com/sergo2048/Data-mining/main/Neural%20networks/images/8.png)
+![9.png](https://raw.githubusercontent.com/sergo2048/Data-mining/main/Neural%20networks/images/9.png)
 
 При переносе в матричный вид за еденицу будем считать черный цвет, за 0 белый.
 
